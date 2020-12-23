@@ -1,0 +1,6 @@
+[05-Aug-2019 15:05:51 America/New_York] PHP Notice:  Undefined index: hub_verify_token in /home/novoyfit/rinotob.com/callback_bot.php on line 7
+[05-Aug-2019 15:05:51 America/New_York] PHP Notice:  Undefined variable: answer in /home/novoyfit/rinotob.com/callback_bot.php on line 29
+[05-Aug-2019 15:05:51 America/New_York] PHP Notice:  Undefined index: hub_verify_token in /home/novoyfit/rinotob.com/callback_bot.php on line 7
+[05-Aug-2019 15:05:51 America/New_York] PHP Notice:  Undefined variable: answer in /home/novoyfit/rinotob.com/callback_bot.php on line 29
+[30-Aug-2019 14:51:42 America/New_York] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/novoyfit/rinotob.com/index.php on line 9
+[30-Aug-2019 14:51:50 America/New_York] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/novoyfit/rinotob.com/index.php on line 9
